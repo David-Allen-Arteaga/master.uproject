@@ -9,3 +9,4 @@ mkdocs-git-revision-date-localized-plugin
 pillow
 cairosvg
 lxml
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
